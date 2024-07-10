@@ -6,7 +6,7 @@ This repository showcases the usage of the Stark CI/CD tools to integrate access
 
 To quickly integrate with an existing Playwright workflow, follow these steps:
 
-1. Create/update `.npmrc` to authenticate with the Stark NPM registry.
+1. Create/update `.npmrc` to authenticate with the Stark NPM registry and [install the Stark library in your project](package.json#L12)
 
    ```
    @stark-ci:registry=https://npm.getstark.co
