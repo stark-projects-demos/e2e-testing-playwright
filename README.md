@@ -13,7 +13,7 @@ To quickly integrate with an existing Playwright workflow, follow these steps:
    //npm.getstark.co/:_auth=<<encoded Stark API key>>
    ```
 
-2. Call the Stark accessibility scan [from your code](https://github.com/stark-projects-demos/e2e-testing-playwright/blob/main/tests/example.spec.ts#L19)
+2. Call the Stark accessibility scan [from your code](tests/example.spec.ts#L19)
 
 ## Getting Started
 
